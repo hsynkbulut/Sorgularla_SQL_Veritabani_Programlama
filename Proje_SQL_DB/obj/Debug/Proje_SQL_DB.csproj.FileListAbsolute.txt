@@ -1,0 +1,13 @@
+D:\cSharpProjects\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe.config
+D:\cSharpProjects\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe
+D:\cSharpProjects\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.pdb
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.AssemblyReference.cache
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.SuggestedBindingRedirects.cache
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Form1.resources
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Properties.Resources.resources
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.GenerateResource.cache
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.CoreCompileInputs.cache
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.exe
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.pdb
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmKategoriler.resources
+D:\cSharpProjects\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmMusteri.resources

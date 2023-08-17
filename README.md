@@ -1,5 +1,5 @@
-# Sorgularla_SQL_Veritabani_Programlama
-Bu repo, Sorgularla Adım Adım SQL Veri Tabanı Programlama kursunda yazdığım kodları içermektedir.
+# Sorgularla SQL Veritabanı Programlama
+Bu repo, Murat Yücedağ'ın Sorgularla Adım Adım SQL Veri Tabanı Programlama adlı Udemy kursunda yazdığım kodları içermektedir.
 
 ![image](https://firmajans.com.tr/wp-content/uploads/2019/09/sql-nedir-ve-nasil-kullanilir.png)
 
@@ -19,16 +19,16 @@ Bu repo, Sorgularla Adım Adım SQL Veri Tabanı Programlama kursunda yazdığı
 13. [View](Sorgular\BOLUM13-14.sql)
 14. [Northwind Veri Tabanı](Sorgular\BOLUM13-14.sql)
 15. [T-SQL](Sorgular\BOLUM15.sql)
-16. [Somut Proje Oluşturulması - C# ile SQL]()
-17. [Müşteri Veri Tablosu İşlemleri]()
-18. [Sizlerden Gelen Ders Talepleri]()
+16. [Somut Proje Oluşturulması - C# ile SQL](Proje_SQL_DB)
+17. Müşteri Veri Tablosu İşlemleri
+18. Sizlerden Gelen Ders Talepleri
 19. [Trigger 2](Sorgular\BOLUM19-20.sql)
 20. [Transaction](Sorgular\BOLUM19-20.sql)
 21. [Fonksiyonlar](Sorgular\BOLUM21-22.sql)
 22. [Index](Sorgular\BOLUM21-22.sql)
-23. [Yedek Alma İşlemleri]()
-24. [Job]()
-25. [Final]()
+23. Yedek Alma İşlemleri
+24. Job
+25. Final
 
 ## Kurstaki Diğer Kaynaklar
 1. [SQL Server NorthwindDB.sql](https://disk.yandex.com.tr/d/wuDMwIoKOcfLdw)
