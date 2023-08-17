@@ -20,7 +20,7 @@ Bu repo, Murat Yücedağ'ın Sorgularla Adım Adım SQL Veri Tabanı Programlama
 14. [Northwind Veri Tabanı](Sorgular\BOLUM13-14.sql)
 15. [T-SQL](Sorgular\BOLUM15.sql)
 16. [Somut Proje Oluşturulması - C# ile SQL](Proje_SQL_DB)
-17. Müşteri Veri Tablosu İşlemleri
+17. [Müşteri Veri Tablosu İşlemleri](Proje_SQL_DB)
 18. Sizlerden Gelen Ders Talepleri
 19. [Trigger 2](Sorgular\BOLUM19-20.sql)
 20. [Transaction](Sorgular\BOLUM19-20.sql)
