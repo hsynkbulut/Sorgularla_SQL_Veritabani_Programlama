@@ -10,7 +10,7 @@ Bu repo, Murat Yücedağ'ın Sorgularla Adım Adım SQL Veri Tabanı Programlama
 4. [İlişkili Tablolar ve Alt Sorgular](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM3-4.sql)
 5. [Birleştirme İşlemleri](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM5-6.sql)
 6. [Aritmetik Fonksiyonlar](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM5-6.sql)
-7. [Alfabetik Fonksiyonlar](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM7-8.sqll)
+7. [Alfabetik Fonksiyonlar](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM7-8.sql)
 8. [Genel Tekrar](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM7-8.sql)
 9. [Prosedürler](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM9-10.sql)
 10. [Date Sorguları](https://github.com/hsynkbulut/Sorgularla_SQL_Veritabani_Programlama/blob/master/Sorgular/BOLUM9-10.sql)
