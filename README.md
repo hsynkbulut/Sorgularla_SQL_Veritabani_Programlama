@@ -27,7 +27,7 @@ Bu repo, Murat Yücedağ'ın Sorgularla Adım Adım SQL Veri Tabanı Programlama
 21. [Fonksiyonlar](Sorgular\BOLUM21-22.sql)
 22. [Index](Sorgular\BOLUM21-22.sql)
 23. Yedek Alma İşlemleri
-24. Job
+24. [Job](Sorgular\BOLUM24.sql)
 25. Final
 
 ## Kurstaki Diğer Kaynaklar
